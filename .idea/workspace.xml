@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="184bd075-8ff3-4055-8dc3-7ca1a8f42336" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YiPxFxcb8ycHAGTf1W0Kf2qCqq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MethodOverLoading4">
+    <configuration name="Frequency (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day26_MethodOverloading.Frequency" />
+      <module name="Spring2020B17_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day26_MethodOverloading.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MethodOverLoading2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day26_MethodOverloading.MethodOverLoading2" />
+      <module name="Spring2020B17_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day26_MethodOverloading.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MethodOverLoading3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day26_MethodOverloading.MethodOverLoading3" />
+      <module name="Spring2020B17_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day26_MethodOverloading.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MethodOverLoading4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day26_MethodOverloading.MethodOverLoading4" />
+      <module name="Spring2020B17_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day26_MethodOverloading.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Uniques" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day26_MethodOverloading.Uniques" />
+      <module name="Spring2020B17_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day26_MethodOverloading.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MethodOverLoading4" />
+        <item itemvalue="Application.MethodOverLoading3" />
+        <item itemvalue="Application.MethodOverLoading2" />
+        <item itemvalue="Application.Uniques" />
+        <item itemvalue="Application.Frequency (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="184bd075-8ff3-4055-8dc3-7ca1a8f42336" name="Default Changelist" comment="" />
+      <created>1583422686876</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583422686876</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="360" y="0" width="575" height="680" key="#Assignment3" timestamp="1583507173765">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="360" y="0" width="575" height="680" key="#Assignment3/0.0.1280.680@0.0.1280.680" timestamp="1583507173765" />
+    <state x="2546" y="207" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1587155926107">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2546" y="207" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587155926107" />
+    <state width="1863" height="161" key="GridCell.Tab.0.bottom" timestamp="1587498127552">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1223" height="229" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1587414069909" />
+    <state width="1863" height="161" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587498127552" />
+    <state width="1237" height="99" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1585253472037" />
+    <state width="1863" height="161" key="GridCell.Tab.0.center" timestamp="1587498127552">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1223" height="229" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1587414069909" />
+    <state width="1863" height="161" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587498127552" />
+    <state width="1237" height="99" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1585253472037" />
+    <state width="1863" height="161" key="GridCell.Tab.0.left" timestamp="1587498127551">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1223" height="229" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1587414069908" />
+    <state width="1863" height="161" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587498127551" />
+    <state width="1237" height="99" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1585253472037" />
+    <state width="1863" height="161" key="GridCell.Tab.0.right" timestamp="1587498127552">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1223" height="229" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1587414069909" />
+    <state width="1863" height="161" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587498127552" />
+    <state width="1237" height="99" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1585253472037" />
+    <state width="1863" height="331" key="GridCell.Tab.1.bottom" timestamp="1587406997339">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1235" height="203" key="GridCell.Tab.1.bottom/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1585927719097" />
+    <state width="1863" height="331" key="GridCell.Tab.1.bottom/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587406997339" />
+    <state width="595" height="204" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1584643048851" />
+    <state width="1863" height="331" key="GridCell.Tab.1.center" timestamp="1587406997339">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1235" height="203" key="GridCell.Tab.1.center/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1585927719097" />
+    <state width="1863" height="331" key="GridCell.Tab.1.center/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587406997339" />
+    <state width="595" height="204" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1584643048851" />
+    <state width="1863" height="331" key="GridCell.Tab.1.left" timestamp="1587406997338">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1235" height="203" key="GridCell.Tab.1.left/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1585927719097" />
+    <state width="1863" height="331" key="GridCell.Tab.1.left/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587406997338" />
+    <state width="595" height="204" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1584643048851" />
+    <state width="1863" height="331" key="GridCell.Tab.1.right" timestamp="1587406997339">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1235" height="203" key="GridCell.Tab.1.right/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1585927719097" />
+    <state width="1863" height="331" key="GridCell.Tab.1.right/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587406997339" />
+    <state width="595" height="204" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1584643048851" />
+    <state x="1920" y="0" key="SettingsEditor" timestamp="1586201059278">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="0" key="SettingsEditor/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1585838016327" />
+    <state x="1920" y="0" key="SettingsEditor/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1586201059278" />
+    <state x="0" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1585074433768" />
+    <state width="1054" height="1038" key="com.intellij.byteCodeViewer.ShowByteCodeAction" timestamp="1587406965758">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1054" height="1038" key="com.intellij.byteCodeViewer.ShowByteCodeAction/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587406965758" />
+    <state x="341" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1587515862347">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="341" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1587515862347" />
+    <state x="2432" y="251" key="com.intellij.ide.util.TipDialog/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587407033726" />
+    <state x="341" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1585058914364" />
+    <state x="-16" y="153" key="run.anything.popup" timestamp="1584376533482">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="-16" y="153" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1584376533482" />
+    <state x="2375" y="2" width="1008" height="1037" key="search.everywhere.popup" timestamp="1587137796400">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1585582938391" />
+    <state x="2375" y="2" width="1008" height="1037" key="search.everywhere.popup/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587137796400" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1584987315587" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Spring2020B17_Java$warmUp.ic" NAME="warmUp Coverage Results" MODIFIED="1587406920252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>day25_MethodsRecap.*</FILTER>
+    </SUITE>
+  </component>
+</project>
