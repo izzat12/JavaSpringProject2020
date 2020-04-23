@@ -162,7 +162,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587660121386</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="day27_DataTime">
+      <created>1587661257421</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1587661257421</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -179,10 +186,10 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2546" y="207" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587155926107" />
-    <state x="2418" y="41" key="CommitChangelistDialog2" timestamp="1587660120428">
+    <state x="2418" y="41" key="CommitChangelistDialog2" timestamp="1587661256583">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2418" y="41" key="CommitChangelistDialog2/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587660120428" />
+    <state x="2418" y="41" key="CommitChangelistDialog2/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587661256583" />
     <state x="370" y="21" key="FileChooserDialogImpl" timestamp="1587516573723">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -241,10 +248,10 @@
     <state x="0" y="0" key="SettingsEditor/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1585838016327" />
     <state x="1920" y="0" key="SettingsEditor/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1586201059278" />
     <state x="0" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1585074433768" />
-    <state x="2371" y="187" key="Vcs.Push.Dialog.v2" timestamp="1587660127101">
+    <state x="2371" y="187" key="Vcs.Push.Dialog.v2" timestamp="1587661260500">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2371" y="187" key="Vcs.Push.Dialog.v2/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587660127101" />
+    <state x="2371" y="187" key="Vcs.Push.Dialog.v2/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587661260500" />
     <state width="1054" height="1038" key="com.intellij.byteCodeViewer.ShowByteCodeAction" timestamp="1587406965758">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
