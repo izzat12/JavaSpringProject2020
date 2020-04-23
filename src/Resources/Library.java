@@ -14,6 +14,10 @@ public class Library {
         }
         return RevArr;
     }
+
+
+
+
     public static String Reverse(String str){  // can reverse a string and returns string
         String Reverse = "";
         for(int i = str.length()-1; i >= 0; i-- ){
@@ -21,11 +25,15 @@ public class Library {
         }
         return  Reverse;
     }
+
+
     // remove duplicates from string
     // Frequency of string
     // merge two array and return third one
     // max number from array
     // min number from array
+
+
     public static String RemoveDuplicates(String str){
         String result =  "";      //AB
         for(int i = 0; i < str.length(); i++){
@@ -36,6 +44,9 @@ public class Library {
         }
         return result;
     }
+
+
+
     public static int Frequency(String str1, String str2){
         int count = 0 ;
         while(str1.contains(str2)){
@@ -45,6 +56,7 @@ public class Library {
         }
         return count;
     }
+
 
     public static String FrequencyOfChars(String str){
         String NonDup =  Library.RemoveDuplicates(str)  ;             //ABC
@@ -56,6 +68,25 @@ public class Library {
         }
         return result;
     }
+
+
+
+    public static int Frequency (String str, char ch){
+
+        char[] arr =  str.toCharArray();
+
+        int count =0; // will be 1
+        for (char each : arr){ // executes 3 times. each: A,B,B
+            if (each==ch){ // if each is equal to chart then count will be one
+                count++;
+            }
+        }
+
+        return count;
+
+    }
+
+
 }
 
 

@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="184bd075-8ff3-4055-8dc3-7ca1a8f42336" name="Default Changelist" comment="" />
+    <list default="true" id="184bd075-8ff3-4055-8dc3-7ca1a8f42336" name="Default Changelist" comment="day27_DataTime">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day27_DataTime/Dates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day27_DataTime/Find_Minimum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day27_DataTime/uniqueElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_Java/Resources/Library.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_Java/Resources/Library.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day26_MethodOverloading/MethodOverLoading4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day26_MethodOverloading/MethodOverLoading4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day26_MethodOverloading/Uniques.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day26_MethodOverloading/Uniques.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Resources/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Resources/Library.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day26_MethodOverloading/Uniques.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day26_MethodOverloading/Uniques.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +25,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1YiPxFxcb8ycHAGTf1W0Kf2qCqq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -33,13 +48,13 @@
       <recent name="Resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MethodOverLoading4">
-    <configuration name="Frequency (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day26_MethodOverloading.Frequency" />
+  <component name="RunManager" selected="Application.uniqueElement">
+    <configuration name="Find_Minimum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day27_DataTime.Find_Minimum" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day26_MethodOverloading.*" />
+          <option name="PATTERN" value="day27_DataTime.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Uniques" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day26_MethodOverloading.Uniques" />
+    <configuration name="uniqueElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day27_DataTime.uniqueElement" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day26_MethodOverloading.*" />
+          <option name="PATTERN" value="day27_DataTime.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.uniqueElement" />
+        <item itemvalue="Application.Find_Minimum" />
         <item itemvalue="Application.MethodOverLoading4" />
         <item itemvalue="Application.MethodOverLoading3" />
         <item itemvalue="Application.MethodOverLoading2" />
-        <item itemvalue="Application.Uniques" />
-        <item itemvalue="Application.Frequency (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -122,6 +137,10 @@
     </task>
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="day27_DataTime" />
+    <option name="LAST_COMMIT_MESSAGE" value="day27_DataTime" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="360" y="0" width="575" height="680" key="#Assignment3" timestamp="1583507173765">
       <screen x="0" y="0" width="1280" height="680" />
@@ -131,53 +150,61 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2546" y="207" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587155926107" />
-    <state width="1863" height="161" key="GridCell.Tab.0.bottom" timestamp="1587498127552">
+    <state x="2418" y="41" key="CommitChangelistDialog2" timestamp="1587655686975">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2418" y="41" key="CommitChangelistDialog2/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587655686975" />
+    <state x="370" y="21" key="FileChooserDialogImpl" timestamp="1587516573723">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="370" y="21" key="FileChooserDialogImpl/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1587516573723" />
+    <state width="1863" height="161" key="GridCell.Tab.0.bottom" timestamp="1587655687023">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1223" height="229" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1587414069909" />
-    <state width="1863" height="161" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587498127552" />
+    <state width="1863" height="161" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587655687023" />
     <state width="1237" height="99" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1585253472037" />
-    <state width="1863" height="161" key="GridCell.Tab.0.center" timestamp="1587498127552">
+    <state width="1863" height="161" key="GridCell.Tab.0.center" timestamp="1587655687023">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1223" height="229" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1587414069909" />
-    <state width="1863" height="161" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587498127552" />
+    <state width="1863" height="161" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587655687023" />
     <state width="1237" height="99" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1585253472037" />
-    <state width="1863" height="161" key="GridCell.Tab.0.left" timestamp="1587498127551">
+    <state width="1863" height="161" key="GridCell.Tab.0.left" timestamp="1587655687022">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1223" height="229" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1587414069908" />
-    <state width="1863" height="161" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587498127551" />
+    <state width="1863" height="161" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587655687022" />
     <state width="1237" height="99" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1585253472037" />
-    <state width="1863" height="161" key="GridCell.Tab.0.right" timestamp="1587498127552">
+    <state width="1863" height="161" key="GridCell.Tab.0.right" timestamp="1587655687023">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1223" height="229" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1587414069909" />
-    <state width="1863" height="161" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587498127552" />
+    <state width="1863" height="161" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587655687023" />
     <state width="1237" height="99" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1585253472037" />
-    <state width="1863" height="331" key="GridCell.Tab.1.bottom" timestamp="1587406997339">
+    <state width="1863" height="331" key="GridCell.Tab.1.bottom" timestamp="1587652696831">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1235" height="203" key="GridCell.Tab.1.bottom/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1585927719097" />
-    <state width="1863" height="331" key="GridCell.Tab.1.bottom/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587406997339" />
+    <state width="1863" height="331" key="GridCell.Tab.1.bottom/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587652696831" />
     <state width="595" height="204" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1584643048851" />
-    <state width="1863" height="331" key="GridCell.Tab.1.center" timestamp="1587406997339">
+    <state width="1863" height="331" key="GridCell.Tab.1.center" timestamp="1587652696831">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1235" height="203" key="GridCell.Tab.1.center/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1585927719097" />
-    <state width="1863" height="331" key="GridCell.Tab.1.center/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587406997339" />
+    <state width="1863" height="331" key="GridCell.Tab.1.center/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587652696831" />
     <state width="595" height="204" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1584643048851" />
-    <state width="1863" height="331" key="GridCell.Tab.1.left" timestamp="1587406997338">
+    <state width="1863" height="331" key="GridCell.Tab.1.left" timestamp="1587652696831">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1235" height="203" key="GridCell.Tab.1.left/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1585927719097" />
-    <state width="1863" height="331" key="GridCell.Tab.1.left/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587406997338" />
+    <state width="1863" height="331" key="GridCell.Tab.1.left/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587652696831" />
     <state width="595" height="204" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1584643048851" />
-    <state width="1863" height="331" key="GridCell.Tab.1.right" timestamp="1587406997339">
+    <state width="1863" height="331" key="GridCell.Tab.1.right" timestamp="1587652696831">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1235" height="203" key="GridCell.Tab.1.right/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1585927719097" />
-    <state width="1863" height="331" key="GridCell.Tab.1.right/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587406997339" />
+    <state width="1863" height="331" key="GridCell.Tab.1.right/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587652696831" />
     <state width="595" height="204" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1584643048851" />
     <state x="1920" y="0" key="SettingsEditor" timestamp="1586201059278">
       <screen x="1920" y="0" width="1920" height="1040" />
@@ -195,14 +222,18 @@
     <state x="341" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1587515862347" />
     <state x="2432" y="251" key="com.intellij.ide.util.TipDialog/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587407033726" />
     <state x="341" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1585058914364" />
+    <state x="2657" y="416" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1587655602290">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2657" y="416" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587655602290" />
     <state x="-16" y="153" key="run.anything.popup" timestamp="1584376533482">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="-16" y="153" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1584376533482" />
-    <state x="2375" y="2" width="1008" height="1037" key="search.everywhere.popup" timestamp="1587137796400">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state x="303" y="1" width="840" height="678" key="search.everywhere.popup" timestamp="1587516587407">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1585582938391" />
+    <state x="303" y="1" width="840" height="678" key="search.everywhere.popup/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1587516587407" />
     <state x="2375" y="2" width="1008" height="1037" key="search.everywhere.popup/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587137796400" />
     <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1584987315587" />
   </component>

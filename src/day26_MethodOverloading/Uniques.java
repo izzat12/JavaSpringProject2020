@@ -10,7 +10,7 @@ public class Uniques {
 
         for (int i = 0; i < str.length(); i++){ // repeat over and over again
 
-            int number =  frequency(str,str.charAt(i)); // repeated one time since its in char at
+            int number =  Frequency(str,str.charAt(i)); // repeated one time since its in char at
             if (number == 1){
                 result += str.charAt(i);
             }
@@ -34,7 +34,7 @@ public class Uniques {
 
         for (int i = 0; i < str.length(); i++){ // repeat over and over again
 
-            int number =  frequency(str,str.charAt(i)); // repeated one time since its in char at
+            int number =  Frequency(str,str.charAt(i)); // repeated one time since its in char at
             if (number == 1){
                 result += str.charAt(i);
             }
@@ -47,7 +47,7 @@ public class Uniques {
 
 
 
-    public static int frequency (String str, char ch){
+    public static int Frequency (String str, char ch){
 
         char[] arr =  str.toCharArray();
 
