@@ -18,11 +18,16 @@ public class Dates_Formating {
          */
 
 
-        DateTimeFormatter dtf2 = DateTimeFormatter.ofPattern("MMM/dd/yy");
+        DateTimeFormatter dtf2 = DateTimeFormatter.ofPattern("EEEE MMM/dd/yy");
 
         LocalDate date2 = LocalDate.of(1994,12,30);
         String str1 = date2.format(dtf2);
         System.out.println(str1);
+
+        System.out.println("======================");
+
+        LocalDate date3 = LocalDate.now();
+        System.out.println(date3.format(dtf2));
 
 
     }
