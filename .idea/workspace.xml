@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="184bd075-8ff3-4055-8dc3-7ca1a8f42336" name="Default Changelist" comment="day27_DataTime">
-      <change afterPath="$PROJECT_DIR$/src/day28_DateTime/Time_Formatting.java" afterDir="false" />
+    <list default="true" id="184bd075-8ff3-4055-8dc3-7ca1a8f42336" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/day28_DateTime/Time.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day28_DateTime/warmUp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day28_DateTime/Time_Formatting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day28_DateTime/Time_Formatting.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,8 +44,8 @@
     </key>
   </component>
   <component name="RunManager" selected="Application.Time_Formatting">
-    <configuration name="Dates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day27_DataTime.Dates" />
+    <configuration name="Dates_Formating" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day27_DataTime.Dates_Formating" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
@@ -55,12 +57,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Dates_Formating" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day27_DataTime.Dates_Formating" />
+    <configuration name="Time" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day28_DateTime.Time" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day27_DataTime.*" />
+          <option name="PATTERN" value="day28_DateTime.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="uniqueElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day27_DataTime.uniqueElement" />
+    <configuration name="warmUp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day28_DateTime.warmUp" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day27_DataTime.*" />
+          <option name="PATTERN" value="day28_DateTime.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,10 +112,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Time_Formatting" />
+        <item itemvalue="Application.Time" />
+        <item itemvalue="Application.warmUp" />
         <item itemvalue="Application.Dates_Formating" />
         <item itemvalue="Application.quiz" />
-        <item itemvalue="Application.Dates" />
-        <item itemvalue="Application.uniqueElement" />
       </list>
     </recent_temporary>
   </component>
@@ -191,13 +193,21 @@
       <option name="project" value="LOCAL" />
       <updated>1587669045331</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="day28_DateTime">
+      <created>1587738233090</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1587738233090</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Resources" />
     <MESSAGE value="day27_DataTime" />
-    <option name="LAST_COMMIT_MESSAGE" value="day27_DataTime" />
+    <MESSAGE value="day28_DateTime" />
+    <option name="LAST_COMMIT_MESSAGE" value="day28_DateTime" />
   </component>
   <component name="WindowStateProjectService">
     <state x="360" y="0" width="575" height="680" key="#Assignment3" timestamp="1583507173765">
@@ -208,38 +218,38 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2546" y="207" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587155926107" />
-    <state x="2418" y="41" key="CommitChangelistDialog2" timestamp="1587669907956">
+    <state x="2418" y="41" key="CommitChangelistDialog2" timestamp="1587738231697">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2418" y="41" key="CommitChangelistDialog2/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587669907956" />
+    <state x="2418" y="41" key="CommitChangelistDialog2/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587738231697" />
     <state x="2475" y="32" key="FileChooserDialogImpl" timestamp="1587669621427">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="370" y="21" key="FileChooserDialogImpl/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1587516573723" />
     <state x="2475" y="32" key="FileChooserDialogImpl/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587669621427" />
-    <state width="1919" height="166" key="GridCell.Tab.0.bottom" timestamp="1587738121605">
+    <state width="1863" height="166" key="GridCell.Tab.0.bottom" timestamp="1587740157873">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1223" height="161" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1587658466090" />
-    <state width="1919" height="166" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587738121605" />
+    <state width="1863" height="166" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587740157873" />
     <state width="1237" height="99" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1585253472037" />
-    <state width="1919" height="166" key="GridCell.Tab.0.center" timestamp="1587738121605">
+    <state width="1863" height="166" key="GridCell.Tab.0.center" timestamp="1587740157872">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1223" height="161" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1587658466090" />
-    <state width="1919" height="166" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587738121605" />
+    <state width="1863" height="166" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587740157872" />
     <state width="1237" height="99" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1585253472037" />
-    <state width="1919" height="166" key="GridCell.Tab.0.left" timestamp="1587738121604">
+    <state width="1863" height="166" key="GridCell.Tab.0.left" timestamp="1587740157872">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1223" height="161" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1587658466089" />
-    <state width="1919" height="166" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587738121604" />
+    <state width="1863" height="166" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587740157872" />
     <state width="1237" height="99" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1585253472037" />
-    <state width="1919" height="166" key="GridCell.Tab.0.right" timestamp="1587738121605">
+    <state width="1863" height="166" key="GridCell.Tab.0.right" timestamp="1587740157872">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1223" height="161" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1587658466090" />
-    <state width="1919" height="166" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587738121605" />
+    <state width="1863" height="166" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587740157872" />
     <state width="1237" height="99" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1585253472037" />
     <state width="1863" height="331" key="GridCell.Tab.1.bottom" timestamp="1587669976332">
       <screen x="1920" y="0" width="1920" height="1040" />
@@ -271,14 +281,18 @@
     <state x="0" y="0" key="SettingsEditor/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1585838016327" />
     <state x="1920" y="0" key="SettingsEditor/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1586201059278" />
     <state x="0" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1585074433768" />
-    <state x="2371" y="187" key="Vcs.Push.Dialog.v2" timestamp="1587669358666">
+    <state x="2371" y="187" key="Vcs.Push.Dialog.v2" timestamp="1587738243903">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2371" y="187" key="Vcs.Push.Dialog.v2/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587669358666" />
+    <state x="2371" y="187" key="Vcs.Push.Dialog.v2/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587738243903" />
     <state width="1054" height="1038" key="com.intellij.byteCodeViewer.ShowByteCodeAction" timestamp="1587406965758">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1054" height="1038" key="com.intellij.byteCodeViewer.ShowByteCodeAction/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587406965758" />
+    <state x="2012" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1587739621503">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2012" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587739621503" />
     <state x="2432" y="251" key="com.intellij.ide.util.TipDialog" timestamp="1587736575932">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
