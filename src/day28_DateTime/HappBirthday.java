@@ -5,7 +5,7 @@ import java.time.LocalDate;
 public class HappBirthday {
     public static void main(String[] args) {
 
-        HappyBirthDay(2020,4,24);
+        HappyBirthDay(1994,12,30);
 
 
     }
