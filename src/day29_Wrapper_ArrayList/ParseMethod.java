@@ -18,6 +18,37 @@ public class ParseMethod {
         System.out.println(b1 + 4); //number
 
         Integer I1 = (int) Byte.parseByte(str); //AutoBoxing
+    //=============================================================
+
+        String str2 = "10.5";
+
+      float f1 = Float.parseFloat(str2);
+
+        System.out.println(f1+3); //numbers primitive
+
+        double f2 = Float.parseFloat(str2);
+        System.out.println(f1+f2);
+
+//===================================================================
+
+        String str3 = "123456789";
+
+        long l1 = Long.parseLong(str3);
+        System.out.println(l1 +1);
+
+//================================================
+
+        String result = "TrUe";
+
+        boolean bol1 = Boolean.parseBoolean(result);
+        System.out.println(bol1);
+
+//================================================
+
+        String result2 = "faLsE";
+
+        boolean bol2 = Boolean.parseBoolean(result2);
+
 
 
 
