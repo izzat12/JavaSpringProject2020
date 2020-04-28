@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="184bd075-8ff3-4055-8dc3-7ca1a8f42336" name="Default Changelist" comment="Resources">
-      <change afterPath="$PROJECT_DIR$/src/day30_ArrayList/ArrayList_Methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day30_ArrayList/ArrayList_Methods2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/day28_DateTime/hellosir.java" beforeDir="false" />
     </list>
@@ -42,9 +42,22 @@
       <recent name="Resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ArrayList_Methods">
+  <component name="RunManager" selected="Application.ArrayList_Methods2">
     <configuration name="ArrayList_Methods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day30_ArrayList.ArrayList_Methods" />
+      <module name="Spring2020B17_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day30_ArrayList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayList_Methods2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day30_ArrayList.ArrayList_Methods2" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
@@ -82,19 +95,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumOfDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day30_ArrayList.SumOfDigits" />
-      <module name="Spring2020B17_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day30_ArrayList.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Uniques" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day30_ArrayList.Uniques" />
       <module name="Spring2020B17_Java" />
@@ -110,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayList_Methods2" />
         <item itemvalue="Application.ArrayList_Methods" />
         <item itemvalue="Application.CombineTwoArrays" />
         <item itemvalue="Application.Uniques" />
         <item itemvalue="Application.ArrayList_Reverse" />
-        <item itemvalue="Application.SumOfDigits" />
       </list>
     </recent_temporary>
   </component>
@@ -298,29 +298,29 @@
     </state>
     <state x="370" y="21" key="FileChooserDialogImpl/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1587516573723" />
     <state x="2475" y="32" key="FileChooserDialogImpl/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587753356741" />
-    <state width="1863" height="166" key="GridCell.Tab.0.bottom" timestamp="1588091860697">
+    <state width="1863" height="166" key="GridCell.Tab.0.bottom" timestamp="1588093475972">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1223" height="161" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1587658466090" />
-    <state width="1863" height="166" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588091860697" />
+    <state width="1863" height="166" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588093475972" />
     <state width="1237" height="99" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1585253472037" />
-    <state width="1863" height="166" key="GridCell.Tab.0.center" timestamp="1588091860696">
+    <state width="1863" height="166" key="GridCell.Tab.0.center" timestamp="1588093475972">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1223" height="161" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1587658466090" />
-    <state width="1863" height="166" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588091860696" />
+    <state width="1863" height="166" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588093475972" />
     <state width="1237" height="99" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1585253472037" />
-    <state width="1863" height="166" key="GridCell.Tab.0.left" timestamp="1588091860696">
+    <state width="1863" height="166" key="GridCell.Tab.0.left" timestamp="1588093475972">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1223" height="161" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1587658466089" />
-    <state width="1863" height="166" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588091860696" />
+    <state width="1863" height="166" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588093475972" />
     <state width="1237" height="99" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1585253472037" />
-    <state width="1863" height="166" key="GridCell.Tab.0.right" timestamp="1588091860696">
+    <state width="1863" height="166" key="GridCell.Tab.0.right" timestamp="1588093475972">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1223" height="161" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1587658466090" />
-    <state width="1863" height="166" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588091860696" />
+    <state width="1863" height="166" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588093475972" />
     <state width="1237" height="99" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1585253472037" />
     <state width="1863" height="331" key="GridCell.Tab.1.bottom" timestamp="1588002461878">
       <screen x="1920" y="0" width="1920" height="1040" />
