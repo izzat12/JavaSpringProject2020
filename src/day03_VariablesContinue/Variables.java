@@ -9,7 +9,7 @@ public class Variables {
         boolean result3 = 87 + 2 > 10;
         System.out.println(result3);
 
-        System.out.println(9 <=8 );   //true
+        System.out.println(9 <=8 );   //false
         System.out.println("Muhtar" == "good guy");    //false
         System.out.println("9" == "3");         //false
         System.out.println(true != false);         //true
