@@ -21,5 +21,22 @@ public class removeDuplicates {
         }
         System.out.println(result);
 
+        System.out.println("============================================");
+
+        /*
+        write a progam that can remove duplicates from an array of integer
+
+         */
+
+        Integer[] arr1 = {1,2,1,3,2,3,4,5,5,4};
+
+        ArrayList<Integer> nonDuplicates = new ArrayList<>();
+
+        for (int i =0; i < arr1.length; i++){
+            if (!nonDuplicates.contains(arr1[i]));{
+                nonDuplicates.add(arr1[i]);
+            }
+        }
+        System.out.println(nonDuplicates);
     }
 }
