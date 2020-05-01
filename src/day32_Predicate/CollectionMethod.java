@@ -18,6 +18,55 @@ public class CollectionMethod {
         System.out.println(min);
 
 
+        System.out.println("===============================");
+
+        /*
+        1. write a program that can return the second maximum number from arraylist
+                     ex: {1,2,3,4,5,6,7,8,8}
+                     output: 7
+        2. second minimum number from arraylist
+              ex: {1,2,3,4,5,6,7,8,8}
+              output: 2
+         */
+
+              ArrayList<Integer> numbers = new ArrayList<>(Arrays.asList(1,2,1,3,4,5,5,6,7));
+
+              //second max: 6
+             //second min: 2
+
+        Integer maxNum = Collections.max(numbers);
+
+        numbers.removeAll(Arrays.asList(maxNum));
+        System.out.println(numbers);
+
+        int secondMax = Collections.max(numbers);
+        System.out.println(secondMax);
+
+        System.out.println("===========================");
+
+
+        ArrayList<Integer> numbers2 = new ArrayList<>(Arrays.asList(1,2,1,3,4,5,5,6,7));
+
+         Integer minNum = Collections.min(numbers2);
+
+         numbers2.removeAll(Arrays.asList(minNum));
+        System.out.println(numbers2);
+
+
+        int secondMin = Collections.min(numbers2);
+        System.out.println(secondMin);
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
