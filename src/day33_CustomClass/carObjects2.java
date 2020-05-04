@@ -11,13 +11,19 @@ public class carObjects2 {
         car1.setCarInfo("Toyota","Highlander", 2020,"Blue");
         car1.getCarInfo();
 
+//=====================================================================================
+
         Car car2 = new Car();
         car2.setCarInfo("BMW","X6",2020,"Black");
         car2.getCarInfo();
 
+//=====================================================================================
+
         Car car3 = new Car();
         car3.setCarInfo("Honda","Civic",2020,"White");
         car3.getCarInfo();
+
+//=====================================================================================
 
         System.out.println("=============================================");
 
