@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="184bd075-8ff3-4055-8dc3-7ca1a8f42336" name="Default Changelist" comment="Resources">
-      <change afterPath="$PROJECT_DIR$/src/day32_Predicate/Uniques.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day32_Predicate/Lambda_Expression.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day32_Predicate/CollectionMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day32_Predicate/CollectionMethod.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/day28_DateTime/hellosir.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day30_ArrayList/Uniques.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day30_ArrayList/Uniques.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day32_Predicate/CollectionMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day32_Predicate/CollectionMethod.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +42,7 @@
       <recent name="Resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Uniques">
+  <component name="RunManager" selected="Application.Lambda_Expression">
     <configuration name="CollectionMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day32_Predicate.CollectionMethod" />
       <module name="Spring2020B17_Java" />
@@ -59,8 +56,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Duplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day32_Predicate.Duplicates" />
+    <configuration name="Duplicates2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day32_Predicate.Duplicates2" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
@@ -72,8 +69,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Duplicates2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day32_Predicate.Duplicates2" />
+    <configuration name="Lambda_Expression" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day32_Predicate.Lambda_Expression" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
@@ -113,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lambda_Expression" />
         <item itemvalue="Application.Uniques" />
         <item itemvalue="Application.CollectionMethod" />
         <item itemvalue="Application.Duplicates2" />
         <item itemvalue="Application.quiz" />
-        <item itemvalue="Application.Duplicates" />
       </list>
     </recent_temporary>
   </component>
@@ -303,29 +300,29 @@
     </state>
     <state x="370" y="21" key="FileChooserDialogImpl/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1587516573723" />
     <state x="2475" y="32" key="FileChooserDialogImpl/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588126846192" />
-    <state width="1863" height="263" key="GridCell.Tab.0.bottom" timestamp="1588359971701">
+    <state width="1863" height="263" key="GridCell.Tab.0.bottom" timestamp="1588363815791">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1223" height="236" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1588346396004" />
-    <state width="1863" height="263" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588359971701" />
+    <state width="1863" height="263" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588363815791" />
     <state width="1237" height="99" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1585253472037" />
-    <state width="1863" height="263" key="GridCell.Tab.0.center" timestamp="1588359971700">
+    <state width="1863" height="263" key="GridCell.Tab.0.center" timestamp="1588363815791">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1223" height="236" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1588346396004" />
-    <state width="1863" height="263" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588359971700" />
+    <state width="1863" height="263" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588363815791" />
     <state width="1237" height="99" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1585253472037" />
-    <state width="1863" height="263" key="GridCell.Tab.0.left" timestamp="1588359971700">
+    <state width="1863" height="263" key="GridCell.Tab.0.left" timestamp="1588363815790">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1223" height="236" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1588346396004" />
-    <state width="1863" height="263" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588359971700" />
+    <state width="1863" height="263" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588363815790" />
     <state width="1237" height="99" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1585253472037" />
-    <state width="1863" height="263" key="GridCell.Tab.0.right" timestamp="1588359971701">
+    <state width="1863" height="263" key="GridCell.Tab.0.right" timestamp="1588363815791">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1223" height="236" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1588346396004" />
-    <state width="1863" height="263" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588359971701" />
+    <state width="1863" height="263" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588363815791" />
     <state width="1237" height="99" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1585253472037" />
     <state width="1863" height="331" key="GridCell.Tab.1.bottom" timestamp="1588097220494">
       <screen x="1920" y="0" width="1920" height="1040" />
