@@ -1,21 +1,24 @@
 package day37_Constructor;
 
-import java.util.Arrays;
+// import java.util.Arrays; // only imports Arrays class from java util
 
-import static day37_Constructor.Data.staticVariable;
+import java.util.*; // imports all the classes from java util
 
+/*
+import static day37_Constructors.Data.staticVariable;
+import static day37_Constructors.Data.staticMethod;
+ */
+
+import static day37_Constructor.Data.*;
 
 public class importStatement {
 
     public static void main(String[] args) {
-
-        int[] arr = {4, 3, 4,2,1};
+        int[] arr = {4, 3, 2, 1};
         Arrays.sort(arr);
 
         System.out.println(staticVariable);
 
+        staticMethod();
 
-    }
-
-
-}
+    }}
