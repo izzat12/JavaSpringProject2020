@@ -2,21 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="184bd075-8ff3-4055-8dc3-7ca1a8f42336" name="Default Changelist" comment="Resources">
-      <change afterPath="$PROJECT_DIR$/src/OfficeHours/Class.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/AudioBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/BankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/BankOfAmerica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/Ebook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/Fish.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/Task1/BusinessAnalyst.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/Task1/Developer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/Task1/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/Task1/EmployeeObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/Task1/Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/bookObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/Task2/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/Task2/BankObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/Task2/CheckingAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/Task2/SavingAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/TestData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day42_Inheritance/Task2/Device.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day42_Inheritance/Task2/DeviceObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day42_Inheritance/Task2/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day42_Inheritance/Task2/TV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day42_Inheritance/asdasd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day42_Inheritance/task1/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day42_Inheritance/task1/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day42_Inheritance/task1/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day42_Inheritance/task1/School.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day42_Inheritance/task1/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/day28_DateTime/hellosir.java" beforeDir="false" />
     </list>
@@ -56,13 +57,13 @@
       <recent name="Resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EmployeeObject">
-    <configuration name="BankOfAmerica (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day41_Inheritance.BankOfAmerica" />
+  <component name="RunManager" selected="Application.DeviceObject">
+    <configuration name="BankObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day41_Inheritance.Task2.BankObject" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day41_Inheritance.*" />
+          <option name="PATTERN" value="day41_Inheritance.Task2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +71,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Dog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day41_Inheritance.Dog" />
+    <configuration name="Company" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day42_Inheritance.task1.Company" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day41_Inheritance.*" />
+          <option name="PATTERN" value="day42_Inheritance.task1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeviceObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day42_Inheritance.Task2.DeviceObject" />
+      <module name="Spring2020B17_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day42_Inheritance.Task2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,25 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Fish" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day41_Inheritance.Fish" />
+    <configuration name="School" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day42_Inheritance.task1.School" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day41_Inheritance.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="bookObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day41_Inheritance.bookObjects" />
-      <module name="Spring2020B17_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day41_Inheritance.*" />
+          <option name="PATTERN" value="day42_Inheritance.task1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DeviceObject" />
+        <item itemvalue="Application.Company" />
+        <item itemvalue="Application.School" />
+        <item itemvalue="Application.BankObject" />
         <item itemvalue="Application.EmployeeObject" />
-        <item itemvalue="Application.bookObjects" />
-        <item itemvalue="Application.Fish" />
-        <item itemvalue="Application.Dog" />
-        <item itemvalue="Application.BankOfAmerica (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -318,29 +319,29 @@
     </state>
     <state x="370" y="21" key="FileChooserDialogImpl/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1587516573723" />
     <state x="2475" y="32" key="FileChooserDialogImpl/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588962391061" />
-    <state width="1863" height="229" key="GridCell.Tab.0.bottom" timestamp="1589829113422">
+    <state width="1863" height="229" key="GridCell.Tab.0.bottom" timestamp="1589905892775">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1223" height="158" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1589555428924" />
-    <state width="1863" height="229" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1589829113422" />
+    <state width="1863" height="229" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1589905892775" />
     <state width="1237" height="99" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1585253472037" />
-    <state width="1863" height="229" key="GridCell.Tab.0.center" timestamp="1589829113422">
+    <state width="1863" height="229" key="GridCell.Tab.0.center" timestamp="1589905892775">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1223" height="158" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1589555428924" />
-    <state width="1863" height="229" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1589829113422" />
+    <state width="1863" height="229" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1589905892775" />
     <state width="1237" height="99" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1585253472037" />
-    <state width="1863" height="229" key="GridCell.Tab.0.left" timestamp="1589829113422">
+    <state width="1863" height="229" key="GridCell.Tab.0.left" timestamp="1589905892775">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1223" height="158" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1589555428923" />
-    <state width="1863" height="229" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1589829113422" />
+    <state width="1863" height="229" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1589905892775" />
     <state width="1237" height="99" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1585253472037" />
-    <state width="1863" height="229" key="GridCell.Tab.0.right" timestamp="1589829113422">
+    <state width="1863" height="229" key="GridCell.Tab.0.right" timestamp="1589905892775">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1223" height="158" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1589555428924" />
-    <state width="1863" height="229" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1589829113422" />
+    <state width="1863" height="229" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1589905892775" />
     <state width="1237" height="99" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1585253472037" />
     <state width="1863" height="331" key="GridCell.Tab.1.bottom" timestamp="1589820507663">
       <screen x="1920" y="0" width="1920" height="1040" />
