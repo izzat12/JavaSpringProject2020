@@ -2,14 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="184bd075-8ff3-4055-8dc3-7ca1a8f42336" name="Default Changelist" comment="Resources">
-      <change afterPath="$PROJECT_DIR$/src/day46_Final_Abstract/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day46_Final_Abstract/Final_Variables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day46_Final_Abstract/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day46_Final_Abstract/ShapeObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day46_Final_Abstract/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day46_Final_Abstract/credentials.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day46_Final_Abstract/final_Ecapsulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day46_Final_Abstract/final_Practice.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/day28_DateTime/hellosir.java" beforeDir="false" />
     </list>
@@ -391,11 +383,11 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2657" y="416" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587655602290" />
-    <state x="2149" y="52" key="new project wizard" timestamp="1588182412099">
+    <state x="2149" y="52" key="new project wizard" timestamp="1591067660922">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="0" y="0" key="new project wizard/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1588126963837" />
-    <state x="2149" y="52" key="new project wizard/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588182412099" />
+    <state x="2149" y="52" key="new project wizard/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1591067660922" />
     <state x="2561" y="77" key="refactoring.ChangeSignatureDialog" timestamp="1589571092512">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
